@@ -1,0 +1,67 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.kontent{padding-left: -15px;}
+.postingan{float: left; margin-bottom: 20px; }
+.setail{
+	display: block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+.gambar {
+	width: 40%;
+	float: left;
+	border: 1px;
+}
+.judul {
+	width: 60%;
+	float: left;
+	border: 1px;
+}
+.judul p {margin:7px;}
+
+
+
+/* Bigger than 992 */
+@media (min-width: 992px) {
+.date-outer {
+    width: 50%;
+    float: left;
+}
+}
+
+.date-outer {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.date-posts{
+	float: left; 
+	margin-bottom: 20px; 
+	display: block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.thumbnail-post {
+	width: 40%;
+	float: left;
+	border: 1px;
+}
+.judul2 {
+	width: 60%;
+	float: left;
+	border: 1px;
+}
+.post-body{}
+.post-body h3 {margin:7px; font-size: 16px; color:#ddd;}
