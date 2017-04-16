@@ -38,8 +38,10 @@
 				</div>
 				</div>
 				<div class='post-footer-line post-footer-line-2'>
-				<span class='post-labels'>
-				</span>
+					<span class='post-labels'>
+					Label:
+					<a href='http://insightzilla-facebook.blogspot.co.id/search/label/toko' rel='tag'>toko</a>
+					</span>
 				</div>
 				<div class='post-footer-line post-footer-line-3'>
 				<span class='post-location'>

@@ -18,7 +18,7 @@
     <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/custome.css" rel="stylesheet">
+    <link href="css/custome2.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -66,51 +66,32 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-8">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
-              <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
-            </div>
-          </div>
+      <div class="col-md-8">
+      <div class="row">
 
-          <div class="col-md-6">
-            <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
-              <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
-            </div>
-          </div>
+        <div class="col-md-12">
 
-          <div class="col-md-6">
-            <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
-              <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
-            </div>
-          </div>
+          <ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Library</a></li>
+            <li class="active">Data</li>
+          </ol>
 
-          <div class="col-md-6">
-            <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
-              <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
-            </div>
-          </div>
-
-            <?php
-              include 'readmore.php';
-            ?>
-        </div>
-        </div>
-
-        <div class="col-md-4">
-        
+          <div class="blog-post">
           <?php
-            include 'sidebar.php';
+            include 'postingan.html';
           ?>
+          </div>
 
         </div>
 
-
+         
+      </div>
+      </div>
+      <div class="col-md-4">
+        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
       </div>
 
       <hr>
