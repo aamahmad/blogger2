@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <link rel="icon" href="../../favicon.ico"/>
 
     <title>Jumbotron Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet"/>
 
     <!-- Custom styles for this template -->
-    <link href="css/custome.css" rel="stylesheet">
+    <link href="css/custome.css" rel="stylesheet"/>
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -70,28 +70,28 @@
         <div class="row">
           <div class="col-md-6">
             <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
+              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"/></div>
               <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
             </div>
           </div>
 
           <div class="col-md-6">
             <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
+              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"/></div>
               <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
             </div>
           </div>
 
           <div class="col-md-6">
             <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
+              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"/></div>
               <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
             </div>
           </div>
 
           <div class="col-md-6">
             <div class="postingan setail">
-              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"></div>
+              <div class="gambar"><img width="100%" src="img/expo-newsweek.jpg"/></div>
               <div class="judul"><p>Donec id elit non mi porta gravida at eget metus Donec id elit non mi porta gravida at eget metus </p></div>
             </div>
           </div>
@@ -113,10 +113,10 @@
 
       </div>
 
-      <hr>
+      <hr/>
 
       <footer>
-        <p>&copy; 2016 Company, Inc.</p>
+        <p> 2016 Company, Inc.</p>
       </footer>
     </div> <!-- /container -->
 
@@ -125,7 +125,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>

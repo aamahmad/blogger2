@@ -22,15 +22,17 @@ body {
 	width: 60%;
 	float: left;
 	border: 1px;
+    padding: 0px;
 }
-.judul p {margin:7px;}
+
+.judul h3 a {font-size: 16px; text-decoration: none;}
 
 .post-labels {}
 .sidebar{
     pad
 }
 .widget{}
-.widget h2{font-size: 16px; font-weight: 600;}
+
 .widget-content{}
 .widget-content input {
     display: block;
@@ -110,3 +112,5 @@ body {
 }
 .post-body{}
 .post-body h3 {margin:7px; font-size: 16px; color:#ddd;}
+
+.post-footer {float:left;}
